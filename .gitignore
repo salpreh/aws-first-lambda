@@ -1,0 +1,10 @@
+# python
+**/__pycache__/
+
+# IDE
+Session.vim
+
+# Project
+package/
+bin/triggerS3.sh
+
